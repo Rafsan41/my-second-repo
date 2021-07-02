@@ -1,3 +1,24 @@
-p{
-    color:royalblue;
+body{
+background-image: url(../image/jellyfish.jpg);
+background-size:cover ;
+color: #e01cfa;
+}
+.contact{
+    /*background-color: rgb(119, 31, 160);
+    color: seashell;
+    border: 5px solid red;
+    border-radius: 50px;
+    margin: 20px;
+    margin-left: 800px;
+    padding-left: 400px;
+ */
+ background-color: #1628ca;
+ border:3px solid #0087f5;
+border-radius: 50px;
+margin: 60px;
+padding: 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+
 }
